@@ -1,0 +1,18 @@
+{
+  "dbConfig": {
+    "host": "sql11.freemysqlhosting.net",
+    "user": "sql11498603",
+    "password": "4L1E5XDnc3",
+    "database": "sql11498603",
+    "port": "3306"
+  }
+}
+//{
+//  "dbConfig": {
+//    "host": "127.0.0.1",
+//    "user": "root",
+//    "password": "",
+//    "database": "clients",
+//    "port": "3306"
+//  }
+//}
